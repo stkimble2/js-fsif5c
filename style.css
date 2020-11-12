@@ -1,3 +1,40 @@
 h1, h2 {
   font-family: Lato;
+  background-color:blueviolet
+}
+
+.headers{
+  background-color:cadetblue
+}
+
+li {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+
+}
+
+.forms{
+  background-color:green;
+}
+.lists{
+  background-color:saddlebrown;
+}
+
+#item1{
+  font-family:Lato;
+  font-size:x-large;
+}
+
+#item2{
+  font-family:cursive;
+}
+
+.todo-form{
+border:10px solid black;
+}
+
+.todo-list{
+border:10px solid black
 }
